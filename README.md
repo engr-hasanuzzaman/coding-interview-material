@@ -1,1 +1,1 @@
-# Our learning group
+# Coding interview preparation notes
