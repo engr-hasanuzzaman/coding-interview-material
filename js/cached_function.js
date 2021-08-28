@@ -16,5 +16,13 @@ function capitalize(str) {
     console.log('called capitalize for ', str);
     if (!str) return str;
 
-    return str[0].toUpplerCase() + str.slice(1);
+    return str[0].toUpperCase() + str.slice(1);
 }
+
+const cachedCapitalize = cached(capitalize);
+cachedCapitalize('sumon');
+cachedCapitalize('sumon');
+cachedCapitalize('sumon');
+cachedCapitalize('sumon');
+cachedCapitalize('salma');
+cachedCapitalize('sumon');
