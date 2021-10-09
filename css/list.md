@@ -12,3 +12,5 @@ E[foo|="en"]
 `E[foo|="en"]` an E element whose "foo" attribute has a hyphen-separated list of values beginning (from the left) with "en"
 
 ### difference between `border` & `outline`. Any exampel where a particular one is needed
+
+### What is the difference between psudo class and psudo element selector? what are some of the use case of those?
