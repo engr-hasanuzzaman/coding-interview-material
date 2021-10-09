@@ -10,3 +10,5 @@ E[foo|="en"]
 `E[foo^="bar"]` an E element whose "foo" attribute value begins exactly with the string "bar"
 
 `E[foo|="en"]` an E element whose "foo" attribute has a hyphen-separated list of values beginning (from the left) with "en"
+
+### difference between `border` & `outline`. Any exampel where a particular one is needed
