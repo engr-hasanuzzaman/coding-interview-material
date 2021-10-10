@@ -21,4 +21,6 @@ E[foo|="en"]
 
 ### how web works or when we load a web page what happen under hood?
 
+### what are the difference between `em` and `rem` relative size?
+
 ### `em` reference is difference for `lenght` & `font-size`. When `em` is used for `font-size` reference is `parent` but for length ex. `padding` the reference is the currenet element's font size
