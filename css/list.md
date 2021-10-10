@@ -16,3 +16,7 @@ E[foo|="en"]
 ### What is the difference between psudo class and psudo element selector? what are some of the use case of those?
 
 ### what do you know about <wbr> element?
+
+### what do you know abour specificity?
+
+### how web works or when we load a web page what happen under hood?
