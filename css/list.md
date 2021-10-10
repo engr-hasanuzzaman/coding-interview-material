@@ -26,3 +26,7 @@ E[foo|="en"]
 ### `em` reference is difference for `lenght` & `font-size`. When `em` is used for `font-size` reference is `parent` but for length ex. `padding` the reference is the currenet element's font size
 
 ### what do you know about http caching? what is the difference between `Cache-Contro: max-age: 600, must-revalidate` & `Cache-Contro: max-age: 600`
+
+### what do you know about cookie? why it necessary to have cookie? what is the session cookie? What is size limitation of the cookine?
+
+### what do you know about http? what is the meaning of http is stateless? what is the http status code? tell me about the different http status code you know?
