@@ -20,3 +20,5 @@ E[foo|="en"]
 ### what do you know abour specificity?
 
 ### how web works or when we load a web page what happen under hood?
+
+### `em` reference is difference for `lenght` & `font-size`. When `em` is used for `font-size` reference is `parent` but for length ex. `padding` the reference is the currenet element's font size
