@@ -24,3 +24,5 @@ E[foo|="en"]
 ### what are the difference between `em` and `rem` relative size?
 
 ### `em` reference is difference for `lenght` & `font-size`. When `em` is used for `font-size` reference is `parent` but for length ex. `padding` the reference is the currenet element's font size
+
+### what do you know about http caching? what is the difference between `Cache-Contro: max-age: 600, must-revalidate` & `Cache-Contro: max-age: 600`
