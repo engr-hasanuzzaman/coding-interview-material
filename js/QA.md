@@ -51,3 +51,15 @@ const printAge = () => {
   console.log(age);
 }
 ```
+
+### what will be the output of the following line of code?
+```js
+const obj1 = { 
+  name: 'name1',
+  address: { city: "Dhaka" }
+}
+const obj2 = {...obj1};
+obj2.name = "name2";
+obj2.address.city = "Bogra";
+console.log(obj1);
+```
