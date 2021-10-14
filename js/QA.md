@@ -13,3 +13,16 @@ for(var i = 1; i < 5; i++) {
  
 console.log(5);
 ```
+
+### what will be the output of the following line of code?
+```js
+var obj = {
+  printAge: function() {
+    console.log(`The age is ${this.age}`);
+  },
+  age: 20
+}
+
+var age = obj.printAge;
+age();
+```
