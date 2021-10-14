@@ -63,3 +63,9 @@ obj2.name = "name2";
 obj2.address.city = "Bogra";
 console.log(obj1);
 ```
+
+### How can we change the following code so that b will contain value 3?
+```js
+const arr = [1, 2, 3];
+const [a, b] = arr;
+```
