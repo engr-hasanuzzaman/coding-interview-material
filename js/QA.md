@@ -34,3 +34,20 @@ console.log(objPrototype.toString());
 var nullPrototype = Object.create(null);
 console.log(nullPrototype.toString());
 ```
+
+### what will be the output of the following line of code?
+```js
+printName();
+printAge();
+
+var name = "JT";
+var age = '24';
+
+function printName() {
+  console.log(`The name ${name}`);
+}
+
+const printAge = () => {
+  console.log(age);
+}
+```
