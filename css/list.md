@@ -30,3 +30,5 @@ E[foo|="en"]
 ### what do you know about cookie? why it necessary to have cookie? what is the session cookie? What is size limitation of the cookine?
 
 ### what do you know about http? what is the meaning of http is stateless? what is the http status code? tell me about the different http status code you know?
+
+### what do you know about pre-flight request?
