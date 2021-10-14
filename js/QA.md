@@ -26,3 +26,11 @@ var obj = {
 var age = obj.printAge;
 age();
 ```
+
+### what will be the output of the following line of code?
+```js
+var objPrototype = {};
+console.log(objPrototype.toString());
+var nullPrototype = Object.create(null);
+console.log(nullPrototype.toString());
+```
