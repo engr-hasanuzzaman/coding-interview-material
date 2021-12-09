@@ -1,6 +1,8 @@
 ### how many ways do you know to position an elemen in the center of the div
 - using absolute position with trasform & translate 
 - using flex box with flex direction columns and justify content center with margin left auto
+- using display table and cell
+- using moder grid layout
 
 ### ->  what is thd difference between following two selector
 ```css
