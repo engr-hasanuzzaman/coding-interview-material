@@ -4,6 +4,8 @@
 - using display table and cell
 - using moder grid layout
 
+# for `inline-block` it will take content's space, no line break but all the `block` property will be available
+
 ### ->  what is thd difference between following two selector
 ```css
 E[foo^="bar"]
