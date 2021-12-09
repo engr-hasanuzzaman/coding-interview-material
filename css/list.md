@@ -32,3 +32,8 @@ E[foo|="en"]
 ### what do you know about http? what is the meaning of http is stateless? what is the http status code? tell me about the different http status code you know?
 
 ### what do you know about pre-flight request?
+
+### important diff btw inline & block element
+- inline element occupies only content's spece but block element take the entire parent width
+- height, width are not applicable for inline element
+- only horizontal (left, right) padding, margin are applicable for inline element 
